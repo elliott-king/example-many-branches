@@ -1,7 +1,7 @@
 import uuid
 import subprocess
 
-x = 1
+x = 1000
 for i in range(x):
     id = str(uuid.uuid4())[:8]
     commands = [
